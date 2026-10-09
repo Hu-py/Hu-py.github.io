@@ -251,6 +251,11 @@ function renderPublications(){
     if(p.venue)footer.append(el('p','venue',p.venue));
     if(p.showPdfInList && p.pdf)footer.append(link('PDF',p.pdf,'project-detail-button publication-pdf'));
     if(footer.children.length)body.append(footer);
+    if(p.articleUrl){
+      const original=el('p','pub-links');
+      original.append(link(lang==='zh'?'点击此处查看论文原文 ↗':'Read the original article ↗',p.articleUrl));
+      body.append(original);
+    }
 
     article.append(meta,body);
     list.append(article);
