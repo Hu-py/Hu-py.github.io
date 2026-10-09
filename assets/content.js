@@ -23,19 +23,19 @@ window.SITE = {
       "zh": "城市空间智能 · 多模态表征 · 城市智能体"
     },
     "bio": {
-      "en": "My research focuses on <strong>urban spatial intelligence</strong>, particularly <em>multimodal geospatial representation</em> and <em>urban agents</em>. I develop computational methods that learn urban structure, functions, and dynamics from heterogeneous observations to support spatial inference, spatiotemporal prediction, and intelligent decision-making.",
-      "zh": "我的研究聚焦<strong>城市空间智能</strong>，重点关注<em>多模态地理空间表征</em>与<em>城市智能体</em>，探索如何从异构城市观测中理解复杂城市环境的空间结构、功能组织与动态运行，并支持空间推断、时空预测和智能决策。"
+      "en": "My research focuses on <strong>urban spatial intelligence</strong>, particularly <em>complex networks</em>, <em>urban spatiotemporal prediction</em>, and <em>multimodal spatial understanding</em>. I develop computational methods that learn urban structure, functions, and dynamics from heterogeneous observations to support spatial inference, spatiotemporal prediction, and intelligent decision-making.",
+      "zh": "我的研究聚焦<strong>城市空间智能</strong>，重点关注<em>复杂网络</em>、<em>城市时空预测</em>及<em>多模态空间理解</em>，探索如何从异构城市观测中理解复杂城市环境的空间结构、功能组织与动态运行，并支持空间推断、时空预测和智能决策。"
     },
     "interests": {
-      "en": [
-        "Urban Spatial Intelligence",
-        "Multimodal Geospatial Representation",
-        "Urban Agents"
-      ],
       "zh": [
-        "城市空间智能",
-        "多模态地理空间表征",
-        "城市智能体"
+        "复杂网络",
+        "城市时空预测",
+        "多模态空间理解"
+      ],
+      "en": [
+        "Complex Networks",
+        "Urban Spatiotemporal Prediction",
+        "Multimodal Spatial Understanding"
       ]
     },
     "email": "2530161@tongji.edu.cn",
@@ -460,7 +460,8 @@ window.SITE = {
       "authors": "Li, H., Li, C., Du, L., Hu, P., et al.",
       "venue": "Environmental Research",
       "doi": null,
-      "pdf": null
+      "pdf": null,
+      "articleUrl": "https://www.sciencedirect.com/science/article/pii/S0013935126019183"
     },
     {
       "status": "published",
@@ -469,7 +470,8 @@ window.SITE = {
       "authors": "Shen, Y.*, Hu, P., Feng, Y., Han, W.",
       "venue": "Transportation Research Part D: Transport and Environment",
       "doi": null,
-      "pdf": null
+      "pdf": null,
+      "articleUrl": "https://authors.elsevier.com/a/1nukf4rgZj0RJl"
     },
     {
       "status": "published",
@@ -478,7 +480,8 @@ window.SITE = {
       "authors": "Shen, Y.*, Hu, P., Han, W.",
       "venue": "Transactions in Urban Data, Science, and Technology",
       "doi": null,
-      "pdf": null
+      "pdf": null,
+      "articleUrl": "https://journals.sagepub.com/doi/abs/10.1177/27541231251391213"
     },
     {
       "status": "published",
